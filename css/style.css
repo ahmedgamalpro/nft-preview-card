@@ -75,12 +75,12 @@ main{
     top: 83px;
 }
 
-.name-coin h2{
+.name-coin h1{
     color:var(--White);
     font-weight: 600;
 }
 
-.name-coin h2:hover{
+.name-coin h1:hover{
     color: var(--cyan);
 }
 
